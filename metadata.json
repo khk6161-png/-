@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mandalart Goal Planner 1차완성",
+  "description": "A simple and interactive web application to create your own Mandala Chart. Set a main goal, define sub-goals, and detail the action steps to achieve your dreams. The chart automatically links your sub-goals to guide your planning process.",
+  "requestFramePermissions": []
+}
